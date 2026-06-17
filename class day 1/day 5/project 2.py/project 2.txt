@@ -1,0 +1,7 @@
+#Store the word in a variable
+word="congratulations"
+#Convert to uppercase
+uppercase_word=str.upper("CONGRATULATIONS")
+#Print the result
+print(uppercase_word)
+#Output: CONGRATULATIONS

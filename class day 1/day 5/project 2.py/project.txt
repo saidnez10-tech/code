@@ -1,0 +1,10 @@
+birthday1=9/2
+birthday2=2/6
+birthday3=6/7
+birthday4=2/4
+birthday5=4/7
+print(birthday1)
+print(birthday2)
+print(birthday3)
+print(birthday4)
+print(birthday5)
