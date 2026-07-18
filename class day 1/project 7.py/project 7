@@ -1,0 +1,7 @@
+#Ask user to enter his age and store it in variable age
+age=int(input("enter an age"))
+#Use If statement to check if user's age is between 10 to 20
+if age < 10 and age > 20:
+    print("You are not old")
+else:
+    print("You are getting young")

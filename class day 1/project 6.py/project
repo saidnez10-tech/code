@@ -1,0 +1,15 @@
+# Step 1: Assign values to the three variables
+a=3
+b=3
+c=3
+# Step 2: Print or save the original values before swapping
+print(a,b,c)
+# Step 3: Store one of the variables in a temporary container
+temp=c
+# Step 4: Shift the values over to the correct positions
+a=b
+b=c
+# Step 5: Assign the temporarily saved value to the final variable
+c=temp
+# Step 6: Verify the swapped values
+print(a, b, c)
