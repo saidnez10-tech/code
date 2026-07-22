@@ -1,0 +1,1 @@
+customer_items=[{"name": "Ice cream", "price": 4, "quantity": 1}, {"name": "Bread", "price": 5, "quantity": 2}, {"name": "eggs", "price": 7, "quantity": 1}]                                                       
