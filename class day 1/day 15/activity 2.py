@@ -1,0 +1,16 @@
+# Step 1: Define a function cube(number) that returns the number multiplied by itself three times.
+def cube(number):
+    return number**3
+# Step 2: Define a function by_three(number) that checks if the number is divisible by 3.
+def by_three(number):
+    if number % 3==0:
+        return cube(number)
+    else:
+        return False
+print(by_three(4))
+print(by_three(9))
+# Step 3: If it is divisible by 3, call and return cube(number) from inside by_three().
+
+# Step 4: If it is not divisible by 3, return False instead.
+
+# Step 5: Call by_three(9) and by_three(4), and print both results.
